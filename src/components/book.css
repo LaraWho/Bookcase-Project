@@ -1,0 +1,36 @@
+.bookList {
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+img {
+    height: 300px;
+}
+
+.editInput {
+    padding: 5px 8px;
+    background-color: #f7f4e3;
+    margin: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    box-shadow: 2.5px 2.5px 10px #7a7a74;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+}
+
+.deleteBtn {
+    padding: 5px 8px;
+    background-color: #f7f4e3;
+    border-radius: 5px;
+    box-shadow: 2.5px 2.5px 10px #7a7a74;
+    font-family: 'Comfortaa', cursive;
+}
+
+.editBtn {
+    padding: 5px 8px;
+    background-color: #f7f4e3;
+    border-radius: 5px;
+    box-shadow: 2.5px 2.5px 10px #7a7a74;
+    font-family: 'Comfortaa', cursive;
+}
